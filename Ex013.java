@@ -18,7 +18,7 @@ public class Ex013
 		    System.out.println("O segundo número é o maior.");
 		}
 		else if (n3 > n2 && n3 > n1){
-		    System.out.println("O segundo número é o maior.");
+		    System.out.println("O terceiro número é o maior.");
 		}
 	}
 }
